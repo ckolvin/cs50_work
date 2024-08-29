@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: When tested against the random5000/random50000 lists as well as the reversed5000/reversed50000 lists  it took longer than any of the other sort options.
+
+sort2 uses: Merge Sort
+
+How do you know?: When tested against the random5000/random50000 it performed faster than the other sort options everytime (tested each sort againt both lists 4 times each)
+
+sort3 uses: Selection Sort
+
+How do you know?: When tested against the random5000/random50000 lists it had the second best time. When tested on the reversed5000/reversed50000 lists it performed faster than sort1.
+
